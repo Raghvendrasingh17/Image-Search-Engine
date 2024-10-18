@@ -1,0 +1,8 @@
+.box
+{
+    margin-top: 20px;
+    height: 400px;
+    width: 400px;
+    /* border-radius: 20px solid red;    */
+    background-color:cyan ; 
+}
